@@ -2,7 +2,7 @@
 A small repo to introduce developers to Git
 
 ## Resources 
-* [Link to presentation that is not publicly available yet](www.google.com)
+* [Link to presentation](https://drive.google.com/open?id=0B8RdfI5o6SvWVC0xNEx5bmpodDg)
 * [Install PHP on Windows](https://sourceforge.net/projects/wampserver/)
 
 ## How the Git do I use this?
